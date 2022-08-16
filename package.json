@@ -1,0 +1,17 @@
+{
+  "name": "abhishek-ranjan",
+  "version": "1.0.0",
+  "homepage": "http://abhishekr624.github.io/abhishek-ranjan",
+  "description": "<!-- # Abhishek Ranjan Web link- [Click here](https://abhishekr624.github.io/Abhishek-Ranjan)",
+  "main": "typed.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Ranjan",
+  "license": "ISC"
+}
